@@ -1,0 +1,22 @@
+{
+  "name": "fp-snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattssondavid/fp-snake.git"
+  },
+  "author": "David Mattsson & Samuel Ytterbrink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattssondavid/fp-snake/issues"
+  },
+  "homepage": "https://github.com/mattssondavid/fp-snake#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
